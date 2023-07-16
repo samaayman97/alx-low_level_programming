@@ -37,3 +37,4 @@ for (d = '0'; d <= '9'; d++)
 putchar('\n');
 
 return (0);
+}
